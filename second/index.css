@@ -1,65 +1,64 @@
 body {
-    margin: 0;
-    padding:25px;
+  margin: 0;
+  padding: 25px;
 }
 .header {
-    width:100%;
-    border:5px solid black;
-    padding: 10px;
-    box-sizing:border-box;
+  width: 100%;
+  border: 5px solid black;
+  padding: 10px;
+  box-sizing: border-box;
 }
-.purple-rectangle{
-    height:150px;
-    width:50px;
-    background-color: purple;
-    display:inline-block;
+.purple-rectangle {
+  height: 150px;
+  width: 50px;
+  background-color: purple;
+  display: inline-block;
 }
 .big-rectangle {
-    height:200px;
-    width:400px;
-    background-color:green;
-    display:inline-block;
-    margin: 0 50px;
+  height: 200px;
+  width: 400px;
+  background-color: green;
+  display: inline-block;
+  margin: 0 50px;
 }
-.circle{
-    height:200px;
-    width:200px;
-    border-radius:50%;
-    background-color:lightblue;
-    display:inline-block;
+.circle {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: lightblue;
+  display: inline-block;
 }
-.body{
-    width:100%;
-    border: 5px dotted black;
-    padding:50px;
-    box-sizing:border-box;
-    margin: 25px 0;
+.body {
+  width: 100%;
+  border: 5px dotted black;
+  padding: 50px;
+  box-sizing: border-box;
+  margin: 25px 0;
 }
-.shadow-box{
-    height: 200px;
-    width: 100%;
+.shadow-box {
+  height: 200px;
+  width: 100%;
 
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); 
-    background-color: lemonchiffon;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  background-color: lemonchiffon;
 }
-
 .footer {
-    border: 1px solid #ccc;
-    width:50%;
-    padding: 100px;
-    background-color: white;
-    box-sizing: border-box;
-    margin: 25px auto;
-    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
-    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75); 
+  border: 1px solid #ccc;
+  width: 50%;
+  padding: 100px;
+  background-color: white;
+  box-sizing: border-box;
+  margin: 25px auto;
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
 }
 .footer h1 {
-width:100%;
-color:navy; 
-letter-spacing: 10px;
-text-align: center;
-text-transform: uppercase;
+  width: 100%;
+  color: navy;
+  letter-spacing: 10px;
+  text-align: center;
+  text-transform: uppercase;
 }
